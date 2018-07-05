@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dge/bueacpp/g29sfinae/bin",
+  "command": "/usr/bin/c++   -I/home/dge/bueacpp/g29sfinae/include    -std=c++1z -o CMakeFiles/hello.dir/z.cpp.o -c /home/dge/bueacpp/g29sfinae/z.cpp",
+  "file": "/home/dge/bueacpp/g29sfinae/z.cpp"
+},
+{
+  "directory": "/home/dge/bueacpp/g29sfinae/bin",
+  "command": "/usr/bin/c++   -I/home/dge/bueacpp/g29sfinae/include    -std=c++1z -o CMakeFiles/hello.dir/src/llib.cpp.o -c /home/dge/bueacpp/g29sfinae/src/llib.cpp",
+  "file": "/home/dge/bueacpp/g29sfinae/src/llib.cpp"
+}
+]

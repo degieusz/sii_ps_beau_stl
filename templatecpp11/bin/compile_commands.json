@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dge/bueacpp/template/bin",
+  "command": "/usr/bin/c++   -I/home/dge/bueacpp/template/include    -o CMakeFiles/hello.dir/z.cpp.o -c /home/dge/bueacpp/template/z.cpp",
+  "file": "/home/dge/bueacpp/template/z.cpp"
+},
+{
+  "directory": "/home/dge/bueacpp/template/bin",
+  "command": "/usr/bin/c++   -I/home/dge/bueacpp/template/include    -o CMakeFiles/hello.dir/src/llib.cpp.o -c /home/dge/bueacpp/template/src/llib.cpp",
+  "file": "/home/dge/bueacpp/template/src/llib.cpp"
+}
+]

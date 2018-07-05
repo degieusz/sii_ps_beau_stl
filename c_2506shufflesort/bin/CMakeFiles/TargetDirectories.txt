@@ -1,0 +1,3 @@
+/home/dge/bueacpp/c/bin/CMakeFiles/rebuild_cache.dir
+/home/dge/bueacpp/c/bin/CMakeFiles/hello.dir
+/home/dge/bueacpp/c/bin/CMakeFiles/edit_cache.dir

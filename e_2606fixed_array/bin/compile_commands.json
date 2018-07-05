@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dge/bueacpp/e_fixed_array/bin",
+  "command": "/usr/bin/c++   -I/home/dge/bueacpp/e_fixed_array/include    -o CMakeFiles/hello.dir/z.cpp.o -c /home/dge/bueacpp/e_fixed_array/z.cpp",
+  "file": "/home/dge/bueacpp/e_fixed_array/z.cpp"
+},
+{
+  "directory": "/home/dge/bueacpp/e_fixed_array/bin",
+  "command": "/usr/bin/c++   -I/home/dge/bueacpp/e_fixed_array/include    -o CMakeFiles/hello.dir/src/llib.cpp.o -c /home/dge/bueacpp/e_fixed_array/src/llib.cpp",
+  "file": "/home/dge/bueacpp/e_fixed_array/src/llib.cpp"
+}
+]
